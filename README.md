@@ -92,7 +92,7 @@
   </tbody>
 </table>
 
-- 🔭 I’m a senior frontend engineer
+- 🔭 I’m a senior backend engineer
 - 🤔 I’m looking for help with building NFT, DeFi, DEX Platforms
 - 🚀 Availability: Full-Time Supporting 40hrs/week
 - 💬 Ask me about Web and Blockchain development
